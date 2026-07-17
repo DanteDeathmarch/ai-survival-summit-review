@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dantedeathmarch.github.io/ai-survival-summit-review/sitemap.xml
